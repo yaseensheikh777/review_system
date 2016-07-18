@@ -12,7 +12,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="http://getbootstrap.com/dist/css/bootstrap.css" rel="stylesheet">
-    <link type="text/css" href="../../../mvcp/assets/css/style.css" rel="stylesheet">
+    <link type="text/css" href="../../../review/assets/css/style.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="http://getbootstrap.com/examples/starter-template/starter-template.css" rel="stylesheet">
