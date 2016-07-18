@@ -49,7 +49,7 @@
     <div class="container">
 
 
-        <?php routes::app() ?>
+        <?php Routes::app() ?>
 
 
     </div><!-- /.container -->

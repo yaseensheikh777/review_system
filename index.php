@@ -7,12 +7,9 @@
 
 //package - index.php
 define('DS',DIRECTORY_SEPARATOR);
+require "app".DS."preLoaders.php";
 
-require "lib".DS."config.php";
 
-require_once "lib".DS."routes.php";
-
-$routes = routes::getInstance('routes');
 $routes->router();
 
 
