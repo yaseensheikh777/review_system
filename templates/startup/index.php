@@ -38,8 +38,8 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://localhost/mvcp">Home</a></li>
-            <li><a href="http://localhost/mvcp/users/login">Login</a></li>
+            <li class="active"><a href="http://localhost/review">Home</a></li>
+            <li><a href="login">Login</a></li>
             <li><a href="contact">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->

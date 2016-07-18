@@ -5,7 +5,7 @@ class routes{
 	private $_uri=array();
 
 	public function routes() {
-		$this->add('/','root@main');
+		$this->add('/','users@login');
 		$this->add('/login','users@login');
 		//$this->add('/contact');
 	}
