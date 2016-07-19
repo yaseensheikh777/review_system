@@ -36,7 +36,7 @@
       </div>
 
 
-			<?php KITE::app(); ?>
+			<?php Routes::app(); ?>
  
 
  
